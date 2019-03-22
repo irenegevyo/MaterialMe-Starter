@@ -1,0 +1,4 @@
+#Fri Mar 22 15:02:03 ICT 2019
+base.0=D\:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\MaterialMe-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
